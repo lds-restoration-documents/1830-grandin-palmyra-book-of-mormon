@@ -1,0 +1,12 @@
+<!-- PDF page 146 -->
+**Header:** 142 | BOOK OF JACOB.
+
+<!-- cont --> I shall die; wherefore, I desire to speak unto the people before that I shall die.
+
+And it came to pass that on the morrow, that the multitude were gathered together; and he spake plainly unto them, and denied the things which he had taught them; and confessed the Christ, and the power of the Holy Ghost, and the ministering of Angels. And he spake plainly unto them, that he had been deceived by the power of the Devil. And he spake of hell, and of eternity, and of eternal punishment. And he sayeth, I fear lest I have committed the unpardonable sin, for I have lied unto God: for I denied the Christ, and said that I believed the Scriptures; and they truly testify of him. And because that I have thus lied unto God, I greatly fear lest my case shall be awful; but I confess unto God.
+
+And it came to pass that when he had said these words, he could say no more; and he gave up the ghost. And when the multitude had witnessed that he spake these things as he was about to give up the ghost, they were astonished exceedingly; insomuch, that the power of God came down upon them, and they were overcome, that they fell to the earth. Now, this thing was pleasing unto me, Jacob; for I had requested it of my Father which was in Heaven: for he had heard my cry, and answered my prayer.
+
+And it came to pass that peace, and the love of God, was restored again among the people; and they searched the Scriptures, and hearkened no more to the words of this wicked man. And it came to pass that many means were devised, to reclaim and restore the Lamanites, to the knowledge of the truth; but it all were vain: for they delighted in wars and bloodsheds; and they had an eternal hatred against us, their brethren. And they sough by the power of their arms to destroy us continually; wherefore, the people of Nephi did fortify against them with their armies, and with all their might, trusting in the God and the rock of their salvation; wherefore, they became as yet, conquerors of their enemies.
+
+And it came to pass that I, Jacob, began to be old; and the record of this people being kept on the other plates of Nephi, wherefore, I conclude this record, declaring that I have written according to the best of my knowledge, by saying, That the time passed away with us, and also our lives passed away, like as it were unto us a dream, we being a lonesome and a solemn people, wanderers cast out from Jerusalem; born in tribulation, in a wilderness, and hated of our brethren, which

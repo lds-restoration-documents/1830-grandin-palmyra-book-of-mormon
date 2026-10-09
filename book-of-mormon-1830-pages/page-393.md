@@ -1,0 +1,12 @@
+<!-- PDF page 393 -->
+**Header:** BOOK OF ALMA. | 389
+
+<!-- cont --> yea, that they should be spared, while there was a thousand of our brethren which were slain. And we do justly ascribe it to the miraculous power of God, because of their exceeding faith in that which they had been taught to believe, that there was a just God; and whosoever did not doubt, that they should be preserved by his marvellous power. Now this was the faith of these of which I have spoken; they are young, and their minds are firm; and they do put their trust in God continually.
+
+And now it came to pass that after we had thus taken care of our wounded men, and had buried our dead, and also the dead of the Lamanites, which were many, behold, we did inquire of Gid concerning the prisoners which they had started to go down to the land of Zarahemla with. Now Gid was the Chief Captain over the band which was appointed to guard them down to the land. And now, these are the words which Gid said unto me: Behold, we did start to go down to the land of Zarahemla, with our prisoners. And it came to pass that we did meet the spies of our armies, which had been sent out to watch the camp of the Lamanites. And they cried unto us, saying: Behold, the armies of the Lamanites are a marching towards the city of Cumeni; and behold, they will fall upon them, yea, and will destroy our people.
+
+And it came to pass that our prisoners did hear their cries, which caused them to take courage; and they did rise up in rebellion against us. And it came to pass because of their rebellion, we did cause that our swords should come upon them. And it came to pass that they did, in a body, run upon our swords, in the which, the greater number of them were slain; and the remainder of them broke through and fled from us. And behold, when they had fled, and we could not overtake them, we took our march with speed towards the city Cumeni; and behold, we did arrive in time that we might assist our brethren in preserving the city. And behold, we are again delivered out of the hands of our enemies. And blessed is the name of our God: for behold, it is he that hath delivered us; yea, that hath done this great thing for us.
+
+Now it came to pass that when I, Helaman, had heard these words of Gid, I was filled with exceeding joy, because of the goodness of God in preserving us, that we might not all perish; yea, and I trust that the souls of them which has been slain, have entered into the rest of their God.
+
+And behold, now it came to pass that our next object was

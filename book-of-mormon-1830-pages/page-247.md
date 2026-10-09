@@ -1,0 +1,12 @@
+<!-- PDF page 247 -->
+**Header:** BOOK OF ALMA. | 243
+
+<!-- cont --> called Ammonihah. Now it was the custom of the people of Nephi, to call their lands, and their cities, and their villages, yea, even all their small villages, after the name of him, who first possessed them; and thus it was with the land of Ammonihah.
+
+And it came to pass that when Alma had came to the city of Ammonihah, he began to preach the word of God unto them. Now satan had got great hold upon the hearts of the people of the city of Ammonihah; therefore they would not hearken unto the words of Alma. Nevertheless Alma labored much in the spirit, wrestling with God in mighty prayer, that he would pour out his spirit upon the people which was in the city; that he would also grant that he might baptize them unto repentance; nevertheless, they hardened their hearts, saying unto him, Behold, we know that thou art Alma; and we know that thou art High Priest over the church which thou hast established in many parts of the land, according to your tradition; and we are not of thy church, and we do not believe in such foolish traditions. And now we know that because we are not of thy church, we know that thou hast no power over us; and thou hast delivered up the judgment seat unto Nephihah; therefore thou art not the Chief Judge over us. Now when the people had said this, and had withstood all his words, and reviled him, and spit upon him, and caused that he should be cast out of their city, he departed thence and took his journey towards the city which was called Aaron.
+
+And it came to pass that while he was journeying thither, being weighed down with sorrow, wading through much tribulation and anguish of soul, because of the wickedness of the people which was in the city of Ammonihah. And it came to pass that while Alma was thus weighed down with sorrow, behold, an angel of the Lord appeared unto him, saying, Blessed art thou, Alma; therefore lift up thy head and rejoice, for thou hast great cause to rejoice: for thou hast been faithful in keeping the commandments of God from the time which thou received thy first message from him. Behold, I am he that delivered it unto you; and behold, I am sent to command thee that thou return to the city of Ammonihah, and preach again unto the people of the city; yea, preach unto them.— Yea, say unto them, except they repent, the Lord God will destroy them. For behold, they do study at this time that they may destroy the liberty of thy people, (for thus saith the
+
+---
+
+Footer: 16*

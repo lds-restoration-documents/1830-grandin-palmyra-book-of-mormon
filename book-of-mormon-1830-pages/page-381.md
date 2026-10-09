@@ -1,0 +1,11 @@
+<!-- PDF page 381 -->
+**Header:** BOOK OF ALMA. | 377
+
+<!-- cont --> West Sea. And thus ended the twenty and eigth year of the reign of the Judges over the people of Nephi, &c.
+
+<!-- thick decorative rule (dinkus) printed above the chapter heading -->
+## CHAPTER XXV.
+
+AND now it came to pass in the twenty and ninth year of the Judges, that Ammoron sent unto Moroni, desiring that he would exchange prisoners. And it came to pass that Moroni felt to rejoice exceedingly at this request, for he desired the provisions which was imparted for the support of the Lamanite prisoners, for the support of his own people; and he also desired his own people for the strengthening of his army.— Now the Lamanites had taken many women and children; and there was not a woman nor a child among all the prisoners of Moroni, or the prisoners which Moroni had taken; therefore Moroni resolved upon a stratagem, to obtain as many prisoners of the Nephites from the Lamanites, as it were possible; therefore he wrote an epistle, and sent it by the servant of Ammoron, the same who had brought an epistle to Moroni. Now these are the words which he wrote unto Ammoron, saying: Behold, Ammoron, I have wrote unto you somewhat concerning this war which ye have waged against my people, or rather which thy brother hath waged against them, and ye are still determined to carry on after his death. Behold, I would tell you something concerning the justice of God, and the sword of his Almighty wrath, which doth hang over you: Except ye repent and withdraw your armies into your own lands, or the lands of your possessions, which is the land of Nephi; yea, I would tell you these things, if ye were capable of hearkening unto them; yea, I would tell you concerning that awful hell that awaits to receive such murderers as thou and thy brother hath been, except ye repent and withdraw your murderous purposes, and return with your armies to your own lands; but as ye have rejected these things, and have fought against the people of the Lord, even so I may expect you will do it again.
+
+And now behold, we are prepared to receive you; yea, and except you withdraw your purposes, behold, ye will pull down the wrath of that God whom you have rejected, upon you, even to your utter destruction; but as the Lord liveth, our armies shall come upon you, except ye withdraw, and ye shall

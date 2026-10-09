@@ -1,0 +1,11 @@
+<!-- PDF page 336 -->
+**Header:** 332 | BOOK OF ALMA.
+
+<!-- cont --> day into his kingdom, to sit down in peace. Now go, my son, and teach the word unto this people. Be sober. My son, farewell.
+
+<!-- thick decorative rule (dinkus) printed above the chapter heading -->
+## CHAPTER XIX.
+
+*The Commandments of Alma, to his son Corianton.*
+
+And now my son, I have somewhat more to say unto thee than what I said unto thy brother: for behold, have ye not observed the steadiness of thy brother, his faithfulness, and his diligence in keeping the commandments of God? Behold, has he not set a good example for thee? For thou didst not give so much heed unto my words as did thy brother, among the people of the Zoramites. Now this is what I have against thee: Thou didst go on unto boasting in thy strength, and thy wisdom. And this is not all, my son. Thou didst do that which was grievous unto me; for thou didst forsake the ministry, and did go over into the land of Siron, among the borders of the Lamanites, after the harlot Isabel; yea, she did steal away the hearts of many; but this was no excuse for thee, my son. Thou shouldst have tended to the ministry, wherewith thou wast entrusted. Know ye not, my son, that these things are an abomination in the sight of the Lord; yea, most abominable above all sins, save it be the shedding of innocent blood, or denying the Holy Ghost? for behold, if ye deny the Holy Ghost when it once hath had place in you, and ye know that ye deny it; behold, this is a sin which is unpardonable; yea, and whosoever murdereth against the light and knowledge of God, it is not easy for him to obtain forgiveness; yea, I say unto you, my son, that it is not easy for him to obtain a forgiveness. And now my son, I would to God that ye had not been guilty of so great a crime. I would not dwell upon your crimes, to harrow up your soul, if it were not for your good. But behold, ye cannot hide your crimes from God; and except ye repent, they will stand as a testimony against you at the last day. Now my son, I would that ye should repent, and forsake your sins, and go no more after the lusts of your eyes, but cross yourself in all these things; for except ye do this, ye can in no wise inherit the Kingdom of God. O remember, and take it upon you, and cross your-

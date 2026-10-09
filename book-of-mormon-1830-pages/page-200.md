@@ -1,0 +1,12 @@
+<!-- PDF page 200 -->
+**Header:** 196 | BOOK OF MOSIAH.
+
+<!-- cont --> wives and their children were not slain; and they told Gideon what they had done to the king.
+
+And it came to pass that the king of the Lamanites made an oath unto them, that his people should not slay them. And also Limhi, being the son of the king, having the kingdom conferred upon him by the people, made oath unto the king of the Lamanites, that his people should pay tribute unto him, even one half of all they possessed.
+
+And it came to pass that Limhi began to establish the kingdom, and to establish peace among his people. And the king of the Lamanites set guards round about the land, that he might keep the people of Limhi in the land, that they might not depart into the wilderness; and he did support his guards out of the tribute which he did receive from the Nephites. And now king Limhi did have continual peace in his kingdom, for the the space of two years, that the Lamanites did not molest them nor seek to destroy them.
+
+Now there was a place in Shemlon, where the daughters of the Lamanites did gather themselves together for to sing, and to dance, and to make themselves merry. And it came to pass that there was one day a small number of them gathered together to sing and to dance. And now the priests of king Noah, being ashamed to return to the city of Nephi, yea, and also fearing that the people would slay them, therefore they durst not return to their wives and their children. And having tarried in the wilderness, and having discovered the daughters of the Lamanites, they laid and watched them; and when there were but few of them gathered together to dance, they came forth out of their secret places, and took them and carried them into the wilderness; yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.
+
+And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi; for they thought it was the people of Limhi. Therefore they sent their armies forth; yea, even the king himself went before his people; and they went up to the land of Nephi, to destroy the people of Limhi. And now Limhi had discovered them from the tower; even all their preparations for war did he discover; therefore he gathered his people together, and laid wait for them in the fields, and in the forests. And it came to pass that when the Lamanites had come up, that the people of Limhi began to fall upon them from their waiting places, and began to slay them.

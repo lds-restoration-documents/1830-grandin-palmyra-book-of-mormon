@@ -1,0 +1,12 @@
+<!-- PDF page 120 -->
+**Header:** 116 | SECOND BOOK OF NEPHI.
+
+<!-- cont --> that I remember one nation like unto another? wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together, the testimony of the two nations shall run together also. And I do this that I may prove unto many, that I am the same yesterday, to-day, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word, ye need not suppose that I cannot speak another: for my work is not yet finished; neither shall it be, until the end of man; neither from that time henceforth and forever.
+
+Wherefore, because that ye have a Bible, ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written: for I command all men, both in the east, and in the west, and in the north, and in the south, and in the islands of the sea, that they shall write the words which I speak unto them: for out of the books which shall be written, I will judge the world, every man according to their works, according to that which is written.— For behold, I shall speak unto the Jews, and they shall write it; and I shall also speak unto the Nephites, and they shall write it; and I shall also speak unto the other tribes of the House of Israel, which I have led away, and they shall write it; and I shall also speak unto all the nations of the earth, and they shall write it.
+
+And it shall come to pass that the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews; and the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews.
+
+And it shall come to pass that my people which are of the House of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will shew unto them that fight against my word and against my people, which are of the House of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
+
+And now, behold, my beloved brethren, I would speak unto you: for I, Nephi, would not suffer that ye should suppose that ye are more righteous than the Gentiles shall be. For behold, except ye shall keep the commandments of God, ye shall all likewise perish; and because of the words which have been spoken, ye need not suppose that the Gentiles are utterly destroyed. For behold, I say unto you, as many of the Gen-

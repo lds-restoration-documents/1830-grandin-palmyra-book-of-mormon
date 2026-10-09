@@ -1,0 +1,11 @@
+<!-- PDF page 243 -->
+**Header:** BOOK OF ALMA. | 239
+
+<!-- cont --> the valley that was called Gideon, being called after the man which was slain by the hand of Nehor with the sword. And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, which should come for to redeem his people from their sins, and the holy order by which he was called. And thus it is written. Amen.
+
+<!-- thick decorative rule (dinkus) printed above the chapter heading -->
+## CHAPTER V.
+
+*The words of Alma which he delivered to the people in Gideon, according to his own record.*
+
+BEHOLD my beloved brethren, seeing that I have been permitted to come unto you, therefore I attempt to address you in my language; yea, by my own mouth, seeing that it is the first time that I have spoken unto you by the words of my mouth, I having been wholly confined to the judgment seat, having had much business that I could not come unto you; and even I could not have come now at this time, were it not that the judgment seat hath been given to another, to reign in my stead; and the Lord in much mercy hath granted that I should come unto you. And behold, I have come, having great hopes and much desire that I should find that ye had humbled yourselves before God, and that ye had continued in the supplicating of his grace, that I should find that ye were blameless before him; that I should find that ye were not in the awful dilemma that our brethren were in at Zarahemla; but blessed be the name of God that he hath given me to know, yea, hath given unto me the exceeding great joy of knowing that they are established again in the way of his righteousness. And I trust, according to the spirit of God which is in me, that I shall also have joy over you; nevertheless I do not desire that my joy over you, should come by the cause of so much afflictions and sorrow which I have had for the brethren at Zarahemla: for behold, my joy cometh over them after wading through much afflictions and sorrow. But behold, I trust that ye are not in a state of so much unbelief as were your breth-

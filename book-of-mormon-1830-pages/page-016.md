@@ -1,0 +1,12 @@
+<!-- PDF page 016 -->
+**Header:** 12 | FIRST BOOK OF NEPHI.
+
+<!-- cont --> hither and thither, and our fathers came through out of captivity on dry ground, and the armies of Pharaoh did follow and were drowned in the waters of the Red Sea. Now behold ye know that this is true; and ye also know that an angel hath spoken unto you, wherefore can ye doubt. Let us go up; the Lord is able to deliver us, even as our fathers, and to destroy Laban, even as the Egyptians.
+
+Now when I had spoken these words, they were yet wroth, and did still continue to murmur; Nevertheless they did follow me up until we came without the walls of Jerusalem. And it was by night; and I caused that they should hide themselves without the walls. And after that they had hid themselves, I, Nephi, crept into the city and went forth towards the house of Laban. And I was led by the spirit, not knowing beforehand the things which I should do. Nevertheless I went forth, and as I came near unto the house of Laban, I beheld a man, and he had fallen to the earth before me, for he was drunken with wine. And when I came to him, I found that it was Laban. And I beheld his sword, and I drew it forth from the sheath thereof, and the hilt thereof was of pure gold, and the workmanship thereof was exceeding fine; and I saw that the blade thereof was of the most precious steel.
+
+And it came to pass that I was constrained by the spirit that I should kill Laban; but I said in my heart, never at any time have I shed the blood of man, and I shrunk and would that I might not slay him. And the spirit saith unto me again, behold the Lord hath delivered him into thy hands; yea, and I also knew that he had sought to take away mine own life; yea, and he would not hearken unto the commandments of the Lord; and he also had taken away our property.
+
+And it came to pass that the spirit said unto me again, slay him, for the Lord hath delivered him into thy hands. Behold the Lord slayeth the wicked to bring forth his righteous purposes: It is better that one man should perish, than that a nation should dwindle and perish in unbelief.
+
+And now, when I, Nephi, had heard these words, I remembered the words of the Lord which he spake unto me in the wilderness, saying, that inasmuch as thy seed shall keep my commandments, they shall prosper in the land of promise.— Yea, and I also thought that they could not keep the commandments of the Lord according to the law of Moses, save they should have the law. And I also knew that the law was engraven upon the plates of brass. And again—I knew that

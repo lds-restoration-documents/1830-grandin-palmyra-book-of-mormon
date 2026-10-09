@@ -1,0 +1,12 @@
+<!-- PDF page 138 -->
+**Header:** 134 | BOOK OF JACOB.
+
+<!-- cont --> unto the servant, Pluck off the branches that have not brought forth good fruit, and cast them into the fire. But behold, the servant sayeth unto him, Let us prune it, and dig about it, and nourish it a little longer, that perhaps it may bring forth good fruit unto thee, that thou canst lay it up against the season.— And it came to pass that the Lord of the vineyard, and the servant of the Lord of the vineyard, did nourish all the fruit of the vineyard.
+
+And it came to pass that a long time had passed away, and the Lord of the vineyard sayeth unto his servant, Come, let us go down into the vineyard, that we may labor again in the vineyard. For behold, the time draweth near, and the end soon cometh: wherefore, I must lay up fruit, against the season, unto mine own self.
+
+And it came to pass that the Lord of the vineyard, and the servant, went down into the vineyard; and they came to the tree whose natural branches had been broken off, and the wild branches had been grafted in; and behold, all sorts of fruit did cumber the tree.
+
+And it came to pass that the Lord of the vineyard did taste of the fruit, every sort according to its number. And the Lord of the vineyard saith, Behold, this long time have we nourished this tree, and I have laid up unto myself against the season, much fruit. But behold, this time it hath brought forth much fruit, and there is none of it which is good. And behold, there are all kinds of bad fruit; and it profiteth me nothing, notwithstanding all our labor: and now, it grieveth me that I should lose this tree. And the Lord of the vineyard sayeth unto the servant, What shall we do unto the tree, that I may preserve again good fruit thereof unto mine own self? And the servant sayeth unto his master, Behold, because thou didst graft in the branches of the wild olive tree, they have nourished the roots, that they are alive, and they have not perished; wherefore, thou beholdest that they are yet good.
+
+And it came to pass that the Lord of the vineyard sayeth unto his servant, The tree profiteth me nothing; and the roots thereof profiteth me nothing, so long as it shall bring forth evil fruit. Nevertheless, I know that the roots are good; and for mine own purpose I have preserved them; and because of their much strength, they have hitherto brought forth from the wild branches, good fruit. But behold, the wild branches have grown, and have overran the roots thereof; and because that the wild branches have overcome the roots thereof, it

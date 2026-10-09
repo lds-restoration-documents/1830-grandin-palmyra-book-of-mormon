@@ -1,0 +1,11 @@
+<!-- PDF page 366 -->
+**Header:** 362 | BOOK OF ALMA.
+
+<!-- cont --> er over their enemies; and thus the Lamanites did attempt to destroy the Nephites, until their Chief Captains were all slain; yea, and more than a thousand of the Lamanites were slain; while on the other hand, there was not a single soul of the Nephites which were slain. There were about fifty which were wounded, which had been exposed to the arrows of the Lamanites through the pass; but they were shielded by their shields, and their breast-plates, and their head-plates, insomuch that their wounds were upon their legs; many of which were very severe.
+
+And it came to pass, that when the Lamanites saw that their Chief Captains were all slain, they fled into the wilderness. And it came to pass that they returned to the land of Nephi, to inform their King, Amalickiah, who was a Nephite by birth, concerning their great loss. And it came to pass that he was exceeding angry with his people, because he had not obtained his desire over the Nephites; he had not subjected them to the yoke of bondage; yea, he was exceeding wroth, and he did curse God, and also Moroni, and swearing with an oath that he would drink his blood; and this because Moroni had kept the commandments of God in preparing for the safety of his people. And it came to pass, that on the other hand, the people of Nephi did thank the Lord their God, because of his matchless power in delivering them from the hands of their enemies. And thus ended the nineteenth year of the reign of the Judges over the people of Nephi; yea, and there was continual peace among them, and exceeding great prosperity in the church, because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman, and Shiblon, and Corianton, and Ammon, and his brethren, &c.; yea, and by all those which had been ordained by the holy order of God, being baptised unto repentance, and sent forth to preach among the people, &c.
+
+<!-- thick decorative rule (dinkus) printed above the chapter heading -->
+## CHAPTER XXII.
+
+AND now it came to pass that Moroni did not stop making preparations for war, or to defend themselves against the Lamanites; for he caused that his armies should commence in the commencement of the twentieth year of the reign of the Judges, that they should commence in digging up heaps of

@@ -1,0 +1,12 @@
+<!-- PDF page 326 -->
+**Header:** 322 | BOOK OF ALMA.
+
+<!-- cont --> tience, and bear with those afflictions, with a firm hope that ye shall one day rest from all your afflictions.
+
+Now it came to pass that after Amulek had made an end of these words, they withdrew themselves from the multitude, and came over into the land of Jershon; yea, and the rest of the brethren, after they had preached the word unto the Zoramites, also came over into the land of Jershon.
+
+And it came to pass that after the more popular part of the Zoramites had consulted together, concerning the words which had been preached unto them, they were angry because of the word, for it did destroy their craft; therefore they would not hearken unto the words. And they sent and gathered together throughout all the land, all the people, and consulted with them concerning the words which had been spoken. Now their rulers, and their priests, and their teachers, did not let the people know concerning their desires; therefore they found out privily the minds of all the people.
+
+And it came to pass that after they had found out the minds of all the people, those which were in favor of the words which had been spoken by Alma and his brethren, were cast out of the land; and they were many; and they came over also into the land of Jershon.
+
+And it came to pass that Alma and his brethren did minister unto them. Now the people of the Zoramites were angry with the people of Ammon which were in Jershon, and the chief ruler of the Zoramites being a very wicked man, sent over unto the people of Ammon desiring them that they should cast out of their land all those which came over from them into their land. And he breathed out many threatnings against them. And now the people of Ammon did not fear their words, therefore they did not cast them out, but they did receive all the poor of the Zoramites that came over unto them; and they did nourish them, and did clothe them, and did give unto them lands for their inheritance; and they did administer unto them according to their wants. Now this did stir up the Zoramites to anger against the people of Ammon, and they began to mix with the Lamanites, and to stir them up also to anger against them: and thus the Zoramites and the Lamanites began to make preparations for war against the people of Ammon, and also against the Nephites. And thus ended the seventeenth year of the reign of the Judges, over the people of Nephi.

@@ -1,0 +1,12 @@
+<!-- PDF page 078 -->
+**Header:** 74 | SECOND BOOK OF NEPHI.
+
+## CHAPTER V.
+
+THE words of Jacob, the brother of Nephi, which he spake unto the people of Nephi: Behold, my beloved brethren, that I, Jacob, having been called of God, and ordained after the manner of his holy order, and having been consecrated by my brother, Nephi, unto whom ye look as a king or a protector, and on whom ye depend for safety, behold, ye know that I have spoken unto you exceeding many things; nevertheless, I speak unto you again: for I am desirous for the welfare of your souls. Yea, mine anxiety is great for you; and ye yourselves know that it ever has been. For I have exhorted you with all diligence; and I have taught you the words of my father; and I have spoken unto you concerning all things which are written from the creation of the world.
+
+And now, behold, I would speak unto you concerning things which are, and which are to come; wherefore, I will read you the words of Isaiah. And they are the words which my brother hath desired me that I should speak unto you. And I speak them unto you for your sakes, that ye may learn and glorify the name of your God. And now, the words which I shall read, are they which Isaiah spake concerning all the House of Israel; wherefore, they may be likened unto you: for ye are of the House of Israel. And there are many things which have been spoken by Isaiah, which may be likened unto you, because that ye are of the House of Israel.
+
+And now, these are the words: Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people; and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders. And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their faces towards the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord: for they shall not be ashamed that wait for me.
+
+And now I, Jacob, would speak somewhat concerning these words: For behold, the Lord hath shewn me that they which were at Jerusalem, from whence we came, have been slain and carried away captive; nevertheless, the Lord hath shewn unto me that they should return again. And he also hath shewn unto me, that the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh; and after that he should manifest himself, they should scourge him and cru-

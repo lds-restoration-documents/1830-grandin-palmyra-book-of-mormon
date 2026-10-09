@@ -1,0 +1,12 @@
+<!-- PDF page 213 -->
+**Header:** BOOK OF MOSIAH. | 209
+
+<!-- cont --> there was nothing preached in all the Churches except it were repentance and faith in God. And now there was seven Churches in the land of Zarahemla. And it came to pass that whosoever was desirous to take upon them the name of Christ, or of God, they did join the churches of God; and they were called the people of God. And the Lord did pour out his spirit upon them, and they were blest, and prospered in the land.
+
+Now it came to pass that there was many of the rising generation that could not understand the words of king Benjamin, being little children at the time he spake unto his people; and they did not believe the tradition of their fathers. They did not believe what had been said concerning the resurrection of the dead; neither did they believe concerning the coming of Christ. And now because of their unbelief, they could not understand the word of God; and their hearts were hardened. And they would not be baptized; neither would they join the church. And they were a separate people as to their faith, and remained so ever after, even in their carnal and sinful state: for they would not call upon the Lord their God.— And now in the reign of Mosiah, they were not half so numerous as the people of God; but because of the dissentions among the brethren, they became more numerous. For it came to pass that they did deceive many with their flattering words, which were in the church, and did cause them to commit many sins; therefore it became expedient that those who committed sin that was in the church, should be admonished by the church.
+
+And it came to pass that they were brought before the priests, and delivered up unto the priests by the teachers; and the priests brought them before Alma, which was the high priest. Now king Mosiah had given Alma the authority over the church. And it came to pass that Alma did not know concerning them, for there were many witnesses against them; yea, the people stood and testified of their iniquity in abundance. Now there had not any such thing happened before, in the church; therefore Alma was troubled in his spirit, and he caused that they should be brought before the king. And he saith unto the king, Behold, here are many which we have brought before thee, which are accused of their brethren; yea, and they have been taken in divers iniquities. And they do not repent of their iniquities; therefore we have brought them before thee, that thou may judge them according to their
+
+---
+
+Footer: 14

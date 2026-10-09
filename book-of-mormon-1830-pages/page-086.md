@@ -1,0 +1,12 @@
+<!-- PDF page 086 -->
+**Header:** 82 | SECOND BOOK OF NEPHI.
+
+Wo unto them who commit whoredoms: for they shall be thrust down to hell. Yea, wo unto they that worship Idols: for the Devil of all Devils delighteth in them. And, in fine, wo unto all they that die in their sins: for they shall return to God, and behold his face, and remain in their sins.
+
+O, my beloved brethren, remember the awfulness in transgressing against that holy God, and also the awfulness of yielding to the enticings of that cunning one. Remember, to be carnally minded, is death, and to be spiritually minded, is life eternal.
+
+O, my beloved brethren, give ear to my words. Remember the greatness of the Holy One of Israel. Do not say that I have spoken hard things against you: for if ye do, ye will revile against the truth: for I have spoken the words of your Maker. I know that the words of truth are hard against all uncleanness; but the righteous fear it not, for they love the truth, and are not shaken.
+
+O then, my beloved brethren, come unto the Lord, the Holy One. Remember that his paths are righteousness. Behold, the way for man is narrow, but it lieth in a straight course before him, and the keeper of the gate is the Holy One of Israel: and he employeth no servant there; and there is none other way, save it be by the gate, for he cannot be deceived: for the Lord God is his name: And whoso knocketh, to him will he open, and the wise, and the learned, and they that are rich, which are puffed up because of their learning, and their wisdom, and their riches; yea, they are they, whom he despiseth; and save they shall cast these things away, and consider themselves fools before God, and come down in the depths of humility, he will not open unto them. But the things of the wise and the prudent, shall be hid from them forever; yea, that happiness which is prepared for the Saints. O my beloved brethren, remember my words: Behold, I take off my garments, and I shake them before you: I pray the God of my salvation that he view me with his All-searching eye; wherefore, ye shall know at the last day, when all men shall be judged of their works, that the God of Israel did witness that I shook your iniquities from my soul, and that I stand with brightness before him, and am rid of your blood.
+
+O my beloved brethren, turn away from your sins; shake off the chains of him that would bind you fast; come unto that God which is the rock of your salvation. Prepare your souls for that glorious day, when justice shall be administered

@@ -1,0 +1,11 @@
+<!-- PDF page 219 -->
+**Header:** BOOK OF MOSIAH. | 215
+
+<!-- cont --> to the church; confessing all their sins, and publishing all the things which they had seen, and explaining the prophecies and the scriptures to all who desired to hear them: and thus they were instruments in the hands of God, in bringing many to the knowledge of the truth, yea, to the knowledge of their Redeemer. And how blessed are they! For they did publish peace; they did publish good tidings of good; and they did declare unto the people that the Lord reigneth.
+
+<!-- thick decorative rule (dinkus) printed above the chapter heading -->
+## CHAPTER XII.
+
+Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them, and returned to their father, the king, and desired of him that he would grant unto them, that they might, with these whom they had selected, go up to the land of Nephi, that they might preach the things which they had heard, and that they might impart the word of God to their brethren, the Lamanites, that perhaps they might bring them to the knowledge of the Lord their God, and convince them of the iniquity of their fathers; and that perhaps they might cure them of their hatred towards the Nephites, that they might also be brought to rejoice in the Lord their God, that they might become friendly to one another, and that there should be no more contentions in all the land which the Lord their God hath given them. Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment, did cause them to quake and tremble. And thus did the spirit of the Lord work upon them, for they were the very vilest of sinners. And the Lord saw fit in his infinite mercy to spare them; nevertheless they suffered much anguish of soul, because of their iniquities; and suffering much, fearing that they should be cast off forever.
+
+And it came to pass that they did plead with their father many days, that they might go up to the land of Nephi. And it came to pass that king Mosiah went and inquired of the Lord, if he should let his sons go up among the Lamanites to preach the word. And the Lord said unto Mosiah, Let them go up, for many shall believe on their words, and they shall
