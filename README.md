@@ -4,7 +4,7 @@
 ## Files
 * [book-of-mormon-1830.md](book-of-mormon-1830.md): the whole text in a single [Markdown](#what-is-markdown) file (about 273,000 words): title page, Preface, the Book of Mormon, and the testimonies of the Three and Eight Witnesses. A `<!-- page NNN -->` comment marks where each PDF page begins.
 * [book-of-mormon-1830.txt](book-of-mormon-1830.txt): the same text as plain text, with no [Markdown](#what-is-markdown).
-* [book-of-mormon-1830-sparse.txt](book-of-mormon-1830-sparse.txt): plain text of the Book of Mormon proper only (PDF pages 9–592, from the First Book of Nephi to "THE END."), without the title page, Preface, testimonies or library notes.
+* [book-of-mormon-1830-sparse.txt](book-of-mormon-1830-sparse.txt): plain text of the Book of Mormon proper only: the title page (PDF page 5), which was translated from the plates, followed by the text (PDF pages 9–592, from the First Book of Nephi to "THE END."). It leaves out the 1830 imprint at the foot of the title page (author, printer, place and year), the title-page verso, the Preface, the testimonies and the library notes.
 * [book-of-mormon-1830-pages/](book-of-mormon-1830-pages/): one [Markdown](#what-is-markdown) file per page of the scan (`page-001.md` to `page-598.md`), with running heads, headings and signature marks. File numbers are PDF page numbers (printed page number = PDF page − 4 in the main text). These are the source of truth; the three files above are generated from them.
 
 ## What is in the 1830 edition

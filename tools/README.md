@@ -26,8 +26,9 @@ The scripts and instructions used to produce the files in this repository. The p
   that run across a page break. The join is driven by the `<!-- cont -->` marker the transcriber puts at the start of a
   continued paragraph (the 1830 text has long paragraphs and no verse numbers, so punctuation heuristics are not reliable).
   It aborts if a `<!-- cont -->` has no paragraph to continue.
-- `make_sparse.py` keeps only the PDF page ranges in `PAGE_RANGES` (Book of Mormon text, excluding title page, preface,
-  testimonies, etc.). `PAGE_RANGES` is set to PDF pages 9–592 (the Book of Mormon text); the title page, Preface, testimonies and library notes are dropped.
+- `make_sparse.py` keeps only the PDF page ranges in `PAGE_RANGES`: the title page (PDF 5, translated from the plates) and the Book of
+  Mormon text (PDF 9–592). On the title page the 1830 imprint paragraphs (author, printer, place, year; `IMPRINT_PREFIXES`) are dropped. The title-page
+  verso, Preface, testimonies and library notes are left out.
 - Differences from the Phinney tooling: single-column pages (two crops, not four), no verses, no marginal notes, no reference letters,
   no tables-specific or Apocrypha logic.
 

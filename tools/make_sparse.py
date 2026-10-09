@@ -2,8 +2,10 @@
 """Build the sparse plain-text file (Book of Mormon text only) from book-of-mormon-1830.md.
 
 Keeps book titles, chapter headings and paragraphs from the PDF page ranges that
-hold the Book of Mormon proper. Drops everything outside those ranges (cover,
-title page, preface, testimonies, blank pages, anything added after) and any
+hold the Book of Mormon proper, plus the title page (PDF 5), which was translated
+from the plates; the 1830 imprint at the foot of the title page (author, printer,
+place, year) is not part of that translation and is left out. Drops everything else
+(covers, title-page verso, preface, testimonies, blank pages, library notes) and any
 paragraph that is only an end marker such as FINIS.
 
 The compiled Markdown carries <!-- page NNN --> markers, which this script uses
@@ -18,9 +20,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Inclusive PDF page ranges that hold Book of Mormon text: PDF 9 (1 Nephi, printed p. 1) through
-# PDF 592 (end of Moroni, "THE END,"). The Preface (7-8) and the testimonies (593-594) are outside it.
-PAGE_RANGES = [(9, 592)]
+# Inclusive PDF page ranges kept: the title page (PDF 5, translated from the plates) and the text from
+# PDF 9 (1 Nephi) through PDF 592 (end of Moroni, "THE END."). The title-page verso (6), the Preface (7-8)
+# and the testimonies (593-594) are outside it.
+PAGE_RANGES = [(5, 5), (9, 592)]
+
+# On the title page, the paragraphs of the 1830 imprint are dropped (they start with these words).
+TITLE_PAGE = 5
+IMPRINT_PREFIXES = ('BY JOSEPH SMITH', 'AUTHOR AND PROPRIETOR', 'PALMYRA', 'PRINTED BY E. B. GRANDIN', '1830')
 
 END_MARKERS = re.compile(r'\*?(THE END[.,]?|FINIS[.,]?)\*?', re.I)
 
@@ -65,7 +72,8 @@ def main():
     items = annotate(Path(args.md).read_text(encoding='utf-8'))
     kept, dropped = [], []
     for pg, p in items:
-        if in_range(pg) and not END_MARKERS.fullmatch(p.strip()):
+        if (in_range(pg) and not END_MARKERS.fullmatch(p.strip())
+                and not (pg == TITLE_PAGE and p.startswith(IMPRINT_PREFIXES))):
             kept.append(p)
         else:
             dropped.append((pg, p))
