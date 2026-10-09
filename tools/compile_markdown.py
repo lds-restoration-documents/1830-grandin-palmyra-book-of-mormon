@@ -26,6 +26,7 @@ def clean_page(t):
     t = t.split('### Marginal notes')[0]
     t = re.sub(r'(?m)^\*\*Header:\*\*.*\n?', '', t)
     t = re.sub(r'(?m)^(- )?Footer:.*\n?', '', t)
+    t = re.sub(r'(?m)^---+[ \t]*\n?', '', t)  # the rule above a Footer: line (it would otherwise be taken for the last paragraph)
     t = t.replace('\\*', '*')
     t = re.sub(r'(?<=\S)[ \t]{2,}(?=\S)', ' ', t)
     t = re.sub(r'[ \t]+$', '', t, flags=re.M)

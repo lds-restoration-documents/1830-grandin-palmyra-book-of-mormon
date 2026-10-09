@@ -6,6 +6,7 @@
 * [book-of-mormon-1830.txt](book-of-mormon-1830.txt): the same text as plain text, with no [Markdown](#what-is-markdown).
 * [book-of-mormon-1830-sparse.txt](book-of-mormon-1830-sparse.txt): plain text of the Book of Mormon proper only: the title page (PDF page 5), which was translated from the plates, followed by the text (PDF pages 9–592, from the First Book of Nephi to "THE END."). It leaves out the 1830 imprint at the foot of the title page (author, printer, place and year), the title-page verso, the Preface, the testimonies and the library notes.
 * [book-of-mormon-1830-pages/](book-of-mormon-1830-pages/): one [Markdown](#what-is-markdown) file per page of the scan (`page-001.md` to `page-598.md`), with running heads, headings and signature marks. File numbers are PDF page numbers (printed page number = PDF page − 4 in the main text). These are the source of truth; the three files above are generated from them.
+* [printer-typos.md](printer-typos.md): a catalog of the likely printer's typos and misspellings in the 1830 text (about 140 occurrences, each with its page and context), leaving out spellings that were normal or intentional for the period, such as "shew".
 
 ## What is in the 1830 edition
 The 1830 printing is unlike later editions, and the transcription keeps it that way:

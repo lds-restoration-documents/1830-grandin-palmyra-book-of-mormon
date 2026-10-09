@@ -39,3 +39,6 @@ through `../../review-checklist.md`: it shows each item beside the scan, lets yo
 saves your decisions to `../../review-decisions.json`, and can rebuild the three combined files. Run `python3 tools/review/review_app.py`
 and open http://127.0.0.1:8765. `proofread-spec.md` and `audit-spec.md` are the instructions the proofreading and auditing agents followed.
 
+## Typo catalog
+
+`make_typo_catalog.py` (standard library only) builds `../printer-typos.md`: it finds each form in a curated list of printer's typos and misspellings in `../book-of-mormon-1830.md` and writes its PDF page, printed page and context, so the catalog stays in sync with the text. The list of forms (and the spellings deliberately left out, such as `shew`) is in the script; run `python3 tools/make_typo_catalog.py`.
