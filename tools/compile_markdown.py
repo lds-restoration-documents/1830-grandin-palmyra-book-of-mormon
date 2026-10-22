@@ -17,6 +17,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+# Whole words the printer left a hyphen after at a page end (stray hyphens, not word breaks): never joined.
+KEEP_HYPHEN = {'sat', 'the'}
+
 
 def clean_page(t):
     t = re.sub(r'<!--\s*PDF page \d+\s*-->\n?', '', t)
@@ -50,7 +53,8 @@ def compile_pages(files):
             prev = out[-1].rstrip() if out else ''
             if not prev or prev.startswith(('#', '<!--')):
                 raise SystemExit(f'page {n:03d}: <!-- cont --> but no paragraph to continue')
-            if prev.endswith('-') and first[:1].islower() and not prev.endswith(' -'):
+            if (prev.endswith('-') and first[:1].islower() and not prev.endswith(' -')
+                    and prev[:-1].split(' ')[-1].lower() not in KEEP_HYPHEN):
                 word, _, rest = first.partition(' ')
                 out[-1] = prev[:-1] + word + f' <!-- page {n:03d} --> ' + rest
             else:

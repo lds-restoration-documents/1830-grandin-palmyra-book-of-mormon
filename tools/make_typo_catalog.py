@@ -63,6 +63,10 @@ SECTIONS = [
     ('Words run together', [
         ('thejoy', 'the joy', ''),
     ]),
+    ('Stray hyphen at a page break', [
+        ('sat-', 'sat', 'whole word hyphenated at the page end ("sat-" / "pondering"); kept as printed'),
+        ('the-', 'the', 'whole word hyphenated at the page end ("the-" / "churches"); kept as printed'),
+    ]),
     ('Doubled words', [
         (('for the the space', 'the the'), 'the', 'printed twice across a line break'), (('came to to pass', 'to to'), 'to', ''),
         (('that that they should not lie', 'that that'), 'that', 'printed twice across a line break ("that" ends one line and begins the next)'),
