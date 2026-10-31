@@ -11,14 +11,54 @@ put at the start of each page's text.
 Usage:  python3 tools/compile_markdown.py [--pages-dir DIR] [--out FILE]
 """
 import argparse
+import datetime
 import glob
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
 # Whole words the printer left a hyphen after at a page end (stray hyphens, not word breaks): never joined.
 KEEP_HYPHEN = {'sat', 'the'}
+
+FRONTMATTER = """---
+title: The Book of Mormon (Palmyra, 1830)
+translator: Joseph Smith Jr.
+publisher: E. B. Grandin
+place: Palmyra, N.Y.
+publication_year: 1830
+source_scan: https://archive.org/details/book-of-mormon-1830 (copy owned by the University of Pittsburgh, Darlington Memorial Library)
+transcription_method: AI-assisted transcription from page images (Claude Sonnet 5.5); one audit and one blind AI proofread of every page; owner review of 76 close calls; no full human proofread
+repository: https://github.com/lds-restoration-documents/1830-grandin-palmyra-book-of-mormon
+version: "{version}"
+---
+
+"""
+
+
+def build_version(pages_dir):
+    """Latest release tag, build date and the short hash of the last commit that touched the page files,
+    e.g. 'v1.0.0 (2026-10-31, 88a940d)'. '+modified' follows the tag when the page files differ from the
+    tagged release (later commits or uncommitted edits); '+dirty' is added to the hash for uncommitted page edits.
+    Without any tag: '2026-10-31+88a940d'."""
+    def git(*a):
+        return subprocess.run(['git', '-C', str(ROOT), *a], capture_output=True, text=True, check=True).stdout.strip()
+    today = datetime.date.today().isoformat()
+    try:
+        h = git('log', '-1', '--format=%h', '--', str(pages_dir)) or 'uncommitted'
+        dirty = bool(git('status', '--porcelain', '--', str(pages_dir)))
+        if dirty:
+            h += '+dirty'
+        try:
+            tag = git('describe', '--tags', '--abbrev=0')
+        except subprocess.CalledProcessError:
+            return f'{today}+{h}'
+        if dirty or git('diff', '--name-only', tag, '--', str(pages_dir)):
+            tag += '+modified'
+        return f'{tag} ({today}, {h})'
+    except (OSError, subprocess.CalledProcessError):
+        return f'{today}+unknown'
 
 
 def clean_page(t):
@@ -77,6 +117,7 @@ def main():
 
     files = sorted(glob.glob(str(Path(args.pages_dir) / 'page-*.md')))
     text, joined = compile_pages(files)
+    text = FRONTMATTER.format(version=build_version(args.pages_dir)) + text
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'{len(files)} pages, {joined} joins, {len(text.split())} words -> {args.out}')
 

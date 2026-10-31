@@ -1,3 +1,15 @@
+---
+title: The Book of Mormon (Palmyra, 1830)
+translator: Joseph Smith Jr.
+publisher: E. B. Grandin
+place: Palmyra, N.Y.
+publication_year: 1830
+source_scan: https://archive.org/details/book-of-mormon-1830 (copy owned by the University of Pittsburgh, Darlington Memorial Library)
+transcription_method: AI-assisted transcription from page images (Claude Sonnet 5.5); one audit and one blind AI proofread of every page; owner review of 76 close calls; no full human proofread
+repository: https://github.com/lds-restoration-documents/1830-grandin-palmyra-book-of-mormon
+version: "v1.0.0+modified (2026-10-31, 57bd47d)"
+---
+
 <!-- page 002 -->
 
 UNIVERSITY OF PITTSBURGH
