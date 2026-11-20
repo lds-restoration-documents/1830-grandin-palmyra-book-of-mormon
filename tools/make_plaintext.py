@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from frontmatter import strip_frontmatter  # noqa: E402
+from frontmatter import strip_frontmatter, txt_header  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -44,7 +44,7 @@ def main():
     ap.add_argument('--md', default=str(ROOT / 'book-of-mormon-1830.md'))
     ap.add_argument('--out', default=str(ROOT / 'book-of-mormon-1830.txt'))
     args = ap.parse_args()
-    s = to_plaintext(strip_frontmatter(Path(args.md).read_text(encoding='utf-8')))
+    s = txt_header() + to_plaintext(strip_frontmatter(Path(args.md).read_text(encoding='utf-8')))
     Path(args.out).write_text(s, encoding='utf-8')
     print(f'{len(s.split())} words -> {args.out}')
 

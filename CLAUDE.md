@@ -13,7 +13,7 @@ A text corpus, not software: AI-assisted transcriptions of the 1830 E. B. Grandi
 `book-of-mormon-1830-pages/page-001.md` … are the **source of truth**: one file per PDF page, named by *PDF page number*, not the printed folio. Everything else is derived from them:
 
 - `book-of-mormon-1830.md`: all pages, main text only, joined into one file.
-- `book-of-mormon-1830.txt`: the same, with all Markdown removed.
+- `book-of-mormon-1830.txt`: the same, with all Markdown removed, under a one-line `#` header (from `frontmatter.txt_header()`).
 - `book-of-mormon-1830-sparse.txt`: Book of Mormon text only (books, chapters, paragraphs): the title page (PDF 5, translated from the plates, without its 1830 imprint lines) and PDF 9–592; no title-page verso, preface, testimonies or other front/back matter.
 - `transcription-notes.md`: method, conventions, residual-risk notes, and a per-page log of every `uncertain` / `[illegible]` / layout comment.
 

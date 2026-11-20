@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from frontmatter import strip_frontmatter  # noqa: E402
+from frontmatter import strip_frontmatter, txt_header  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -82,7 +82,7 @@ def main():
         else:
             dropped.append((pg, p))
     text = '\n\n'.join(q for q in (plain(p) for p in kept) if q) + '\n'
-    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = txt_header(sparse=True) + re.sub(r'\n{3,}', '\n\n', text)
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'kept {len(kept)} paragraphs, dropped {len(dropped)}, {len(text.split())} words -> {args.out}')
     if args.verbose:
